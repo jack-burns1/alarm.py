@@ -23,3 +23,5 @@ ALERT #{incident_number}: Usernames and passwords sent in-the-clear ({port numbe
 If unable to read from network, or if there is a problem with the pcap file, the program will display the an error message and terminate.
 
 Technologies: This program extensively uses the scapy module created by Philippe Biondi
+
+Acknowledgments: This program is built off some starter code created by Ming Chow (github: mchow01)
